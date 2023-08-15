@@ -1,4 +1,4 @@
-import {Rectangle as RectangleInterface} from "./Rectangle.interface";
+import {Rectangle as RectangleInterface} from "./interfaces/Rectangle.interface";
 
 export class Rectangle implements RectangleInterface {
     constructor(private width: number, private height: number) {}
