@@ -18,7 +18,7 @@ To install the library, you can clone the repository and install the dependencie
 
 ```typescript
 
-    import { Rectangle, Triangle, Circle, IsoscelesTriangle } from 'my-geometric-shapes-library';
+    import { Rectangle, Triangle, Circle, IsoscelesTriangle } from 'geometric-shapes-trueconfta-library';
 
     const rectangle = new Rectangle(10, 5);
     console.log('Rectangle Area:', rectangle.getArea());
