@@ -4,7 +4,8 @@ A TypeScript library for working with various geometric shapes, including rectan
 
 ## Installation
 
-To install the library, you can clone the repository and install the dependencies:
+To install the library, you can clone the repository and install the dependencies or install it directly from npm.
+[npm link] (https://www.npmjs.com/package/geometric-shapes-trueconfta-library)
 
 
 ```bash
@@ -12,6 +13,10 @@ To install the library, you can clone the repository and install the dependencie
 
     cd geometric-shapes-trueconfta-library
     npm install --save
+    # or
+    // preferred
+    npm install --save geometric-shapes-trueconfta-library 
+
 ```
 
 ## Usage
