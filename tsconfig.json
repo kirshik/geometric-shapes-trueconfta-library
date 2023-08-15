@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
       "allowJs": false,
-      "strict": true
+      "strict": true,
+      "module": "ES6",
     }
 }
